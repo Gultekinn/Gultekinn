@@ -3,11 +3,11 @@
 <img align="right" width="200" src="https://media2.giphy.com/media/4jEmDP26dZXuyytRAk/giphy.gif?cid=ecf05e47d3028uavoi2igyel8rgqxjzfygo7vd6wgf6ey9t3&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding "/>
 
 
-- 🔭 I’m currently working on ** React**
+- 🔭 I’m currently working on  React
 
-- 💬 Ask me about ** React and JavaScript **
+- 💬 Ask me about React and JavaScript 
 
-- 📫 How to reach me ** 7pa2254@code.edu.az **
+- 📫 How to reach me  7pa2254@code.edu.az 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
