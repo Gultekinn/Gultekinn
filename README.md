@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ** React and JavaScript **
 
-- 📫 How to reach me ** 7pa2254@code.edu.az**
+- 📫 How to reach me **7pa2254@code.edu.az**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
