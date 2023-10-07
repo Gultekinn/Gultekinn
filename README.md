@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 💬 Ask me about **React and JavaScript **
+- 💬 Ask me about ** React and JavaScript **
 
 - 📫 How to reach me **7pa2254@code.edu.az**
 
