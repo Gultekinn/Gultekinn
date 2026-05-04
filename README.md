@@ -1,6 +1,6 @@
 # Hi there, I'm Gültekin! 👋
 
-### 🔍 Junior QA Manual Tester | Frontend Developer Background
+### 🔍 Junior QA Manual Tester 
 
 I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend development background. Focused on delivering quality software through systematic manual testing, detailed bug reporting, and comprehensive test documentation in Agile/Scrum environments.
 
@@ -14,7 +14,8 @@ I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend developmen
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,13 +33,6 @@ I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend developmen
 | **SDLC / STLC** | Agile (Scrum), Defect Life Cycle, Requirements analysis |
 | **API Testing** | Postman (REST API) |
 | **Database** | MySQL — Joins, basic SQL queries |
-
----
-
-## 📊 GitHub Stats
-
-![Gultekinn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gultekinn&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gultekinn&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
