@@ -66,7 +66,7 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 | **Testing Types** | Functional, Regression, Smoke, Sanity, Exploratory, Ad-hoc, Positive/Negative, E2E |
 | **Test Design** | Equivalence Partitioning, BVA, Decision Table, Use Cases, Test Scenarios |
 | **Test Execution** | Writing & executing test cases, logging results, re-testing fixed bugs |
-| **Bug Reporting** | Bug life cycle, severity, priority, steps to reproduce, actual vs expected |
+| **Bug Reporting** | Bug life cycle, severity & priority, writing clear and reproducible bug reports |
 | **SDLC / STLC** | Agile (Scrum), Defect Life Cycle, Requirements analysis |
 | **API Testing** | Postman (REST API) |
 | **Database** | MySQL — Joins, basic SQL queries |
