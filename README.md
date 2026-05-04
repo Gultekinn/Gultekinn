@@ -1,14 +1,28 @@
-# Hi there, I'm Gültekin! 👋
+# Hey, I'm Gültekin! 💖
 
-### 🔍 Junior QA Manual Tester | Frontend Developer Background
+### ✨ Junior QA Manual Tester · Frontend Developer · Bug Hunter 🐛
 
-I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend development background. Focused on delivering quality software through systematic manual testing, detailed bug reporting, and comprehensive test documentation in Agile/Scrum environments.
+> *From Baku, Azerbaijan 🇦🇿 — turning chaos into quality, one test case at a time.*
 
 ---
 
-## 🛠 Tools & Technologies
+```
+🌸 She tests. She finds bugs. She documents everything. She does it with style. 🌸
+```
 
-**QA Tools**
+---
+
+## 🔍 Who am I?
+
+I'm a detail-obsessed QA Engineer with a frontend development background.
+I believe **great software starts with great testing** — and I bring both
+technical knowledge and a love for precision to every project I touch. 💅
+
+---
+
+## 🛠 My Toolkit
+
+**🧪 QA Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,7 +31,7 @@ I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend developmen
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-**Frontend & Dev Tools**
+**💻 Frontend & Dev**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -34,9 +48,9 @@ I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend developmen
 
 ---
 
-## 🧪 QA Skills
+## 🧪 QA Superpowers
 
-| Area | Details |
+| 🌸 Area | Details |
 |---|---|
 | **Testing Types** | Functional, Regression, Smoke, Sanity, Exploratory, Ad-hoc, Positive/Negative, E2E |
 | **Test Design** | Equivalence Partitioning, BVA, Decision Table, Use Cases, Test Scenarios |
@@ -48,12 +62,18 @@ I'm a QA Engineer from **Baku, Azerbaijan** 🇦🇿, with a frontend developmen
 
 ---
 
-## 📬 Connect With Me
+## 💌 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gultkinzizova93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gultekinn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4A0C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/)
+[![Email](https://img.shields.io/badge/Email-F4A7B9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gultkinzizova93@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-C9A0DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gultekinn)
 
 ---
 
-> *"Quality is never an accident; it is always the result of intelligent effort."* — John Ruskin
+<div align="center">
+
+💖 *"Quality is never an accident; it is always the result of intelligent effort."*
+
+🌸 · 🐛 · ✅ · 🌸
+
+</div>
