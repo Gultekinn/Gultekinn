@@ -1,6 +1,10 @@
-# Hey, I'm Gültekin! 💖
+<div align="center">
 
-### ✨ Junior QA Manual Tester · Bug Hunter 🐛
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+G%C3%BCltəkin!+%F0%9F%92%96;Junior+QA+Manual+Tester+%E2%9C%A8;Bug+Hunter+%F0%9F%90%9B;She+tests.+She+finds+bugs.+She+slays.+%F0%9F%92…)](https://git.io/typing-svg)
+
+</div>
+
+### ✨ Junior QA Manual Tester · Bug Hunter 🐛 · Frontend Dev Background
 
 > *From Baku, Azerbaijan 🇦🇿 — turning chaos into quality, one test case at a time.*
 
@@ -17,6 +21,16 @@
 I'm a detail-obsessed QA Engineer with a frontend development background.
 I believe **great software starts with great testing** — and I bring both
 technical knowledge and a love for precision to every project I touch. 💅
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gultekinn&theme=dracula&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -62,11 +76,27 @@ technical knowledge and a love for precision to every project I touch. 💅
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Gültekin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gultekinn&show_icons=true&theme=tokyonight&hide_border=true&title_color=F4A7B9&icon_color=C9A0DC&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gultekinn&layout=compact&theme=tokyonight&hide_border=true&title_color=F4A7B9)
+
+</div>
+
+---
+
 ## 💌 Let's Connect!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E4A0C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BClt%C9%99kin-%C9%99zizova-a71499272/)
 [![Email](https://img.shields.io/badge/Email-F4A7B9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gultkinzizova93@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C9A0DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gultekinn)
+
+</div>
 
 ---
 
