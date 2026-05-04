@@ -4,7 +4,7 @@
 
 </div>
 
-### ✨ Junior QA Manual Tester · Bug Hunter 🐛 · Frontend Dev Background
+### ✨ Junior QA Manual Tester · Bug Hunter 🐛 
 
 > *From Baku, Azerbaijan 🇦🇿 — turning chaos into quality, one test case at a time.*
 
@@ -18,9 +18,7 @@
 
 ## 🔍 Who am I?
 
-I'm a detail-obsessed QA Engineer with a frontend development background.
-I believe **great software starts with great testing** — and I bring both
-technical knowledge and a love for precision to every project I touch. 💅
+Detail-oriented Junior QA Engineer with frontend background, focused on finding critical bugs, improving user experience, and ensuring product quality through structured testing. 💅
 
 ---
 
@@ -74,19 +72,7 @@ technical knowledge and a love for precision to every project I touch. 💅
 | **API Testing** | Postman (REST API) |
 | **Database** | MySQL — Joins, basic SQL queries |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gültekin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gultekinn&show_icons=true&theme=tokyonight&hide_border=true&title_color=F4A7B9&icon_color=C9A0DC&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gultekinn&layout=compact&theme=tokyonight&hide_border=true&title_color=F4A7B9)
-
-</div>
-
----
 
 ## 💌 Let's Connect!
 
