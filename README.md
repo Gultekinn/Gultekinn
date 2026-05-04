@@ -6,7 +6,6 @@
 
 ### ✨ Junior QA Manual Tester · Bug Hunter 🐛 
 
-> *From Baku, Azerbaijan 🇦🇿 — turning chaos into quality, one test case at a time.*
 
 ---
 
