@@ -20,11 +20,11 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Gultekinn&theme=dracula&no-frame=true&row=1&margin-w=15&column=7)
+![Gültekin's GitHub Streak](https://streak-stats.demolab.com/?user=Gultekinn&theme=radical&hide_border=true&background=00000000&ring=F4A7B9&fire=F4A7B9&currStreakLabel=F4A7B9)
 
 </div>
 
