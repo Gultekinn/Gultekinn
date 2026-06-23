@@ -24,7 +24,7 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gultekinn&theme=dracula&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Gultekinn&theme=dracula&no-frame=true&row=1&margin-w=15&column=7)
 
 </div>
 
