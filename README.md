@@ -16,7 +16,7 @@
 
 ## 🔍 Who am I?
 
-Detail-oriented Junior QA Engineer with frontend background, focused on finding critical bugs, improving user experience, and ensuring product quality through structured testing. 💅
+Detail-oriented Junior QA Engineer with frontend background, focused on finding critical bugs, improving user experience, and ensuring product quality through structured testing. 
 
 ---
 
