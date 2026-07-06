@@ -5,7 +5,7 @@
 
 </div>
 
-
+![spotify](https://novatorem-mnvo.vercel.app/api/spotify)
 
 <div align="center">
 
