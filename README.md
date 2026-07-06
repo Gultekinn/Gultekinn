@@ -5,7 +5,8 @@
 
 </div>
 
-![spotify](https://novatorem-mnvo.vercel.app/api/spotify)
+
+![progress](https://progress-bar.dev/70/?title=React&color=F4A7B9)
 
 <div align="center">
 
