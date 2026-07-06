@@ -6,7 +6,7 @@
 </div>
 
 
-![React](https://img.shields.io/badge/React-70%25-F4A7B9?style=for-the-badge)
+
 
 <div align="center">
 
