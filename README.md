@@ -4,8 +4,7 @@
 ![visitors](https://komarev.com/ghpvc/?username=Gultekinn&color=F4A7B9&style=flat)
 
 </div>
-
-![ticker](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F4A7B9&width=435&lines=Learning+Cypress+%F0%9F%8C%B8;Improving+API+Testing+%F0%9F%9A%80)
+![Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,mongodb,git)
 
 <div align="center">
 
