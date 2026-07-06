@@ -1,3 +1,10 @@
+ <div align="start">
+
+
+![visitors](https://komarev.com/ghpvc/?username=Gultekinn&color=F4A7B9&style=flat)
+
+</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+G%C3%BClt%C9%99kin!+%F0%9F%92%96;Junior+QA+Manual+Tester+%E2%9C%A8;Bug+Hunter+%F0%9F%90%9B;She+tests.+She+finds+bugs.+She+does+it+with+style.+%F0%9F%8C%B8)](https://git.io/typing-svg)
@@ -83,12 +90,6 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
  
 ---
 
- <div align="center">
-
-
-![visitors](https://komarev.com/ghpvc/?username=Gultekinn&color=F4A7B9&style=flat)
-
-</div>
 
 <div align="center">
 
