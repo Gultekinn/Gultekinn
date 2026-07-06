@@ -6,7 +6,7 @@
 </div>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gultekinn&show_icons=true&theme=radical&hide_border=true)
+![React](https://img.shields.io/badge/React-70%25-F4A7B9?style=for-the-badge)
 
 <div align="center">
 
