@@ -4,7 +4,8 @@
 ![visitors](https://komarev.com/ghpvc/?username=Gultekinn&color=F4A7B9&style=flat)
 
 </div>
-![Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,mongodb,git)
+
+
 
 <div align="center">
 
