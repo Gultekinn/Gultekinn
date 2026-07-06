@@ -6,7 +6,7 @@
 </div>
 
 
-![Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,mongodb,git,postman,mysql)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gultekinn&show_icons=true&theme=radical&hide_border=true)
 
 <div align="center">
 
