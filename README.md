@@ -80,7 +80,9 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 [![GitHub](https://img.shields.io/badge/GitHub-C9A0DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gultekinn)
 
 </div>
-
+ <div align="center">
+![snake](https://raw.githubusercontent.com/Gultekinn/Gultekinn/output/github-contribution-grid-snake.svg)
+</div>
 ---
 
 <div align="center">
