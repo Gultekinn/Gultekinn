@@ -1,3 +1,5 @@
+
+![spinning flower](https://cdn.jsdelivr.net/gh/Gultekinn/Gultekinn@main/assets/spinning-flower.svg)
  <div align="end">
 
 
