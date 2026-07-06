@@ -84,7 +84,10 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 ---
 
  <div align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=Gultekinn&theme=radical&no-frame=true&row=1&column=6)
+
+
+![visitors](https://komarev.com/ghpvc/?username=Gultekinn&color=F4A7B9&style=flat)
+
 </div>
 
 <div align="center">
