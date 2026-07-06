@@ -6,7 +6,7 @@
 </div>
 
 
-![3d-calendar](https://github-readme-3d-contrib.vercel.app/profile-3d-contrib/?username=Gultekinn)
+![Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,mongodb,git,postman,mysql)
 
 <div align="center">
 
