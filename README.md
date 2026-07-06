@@ -23,8 +23,8 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-![Gültekin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gultekinn&theme=radical&hide_border=true&background=00000000&ring=F4A7B9&fire=F4A7B9&currStreakLabel=F4A7B9)
+ 
+![Gültekin's GitHub Streak](https://streak-stats.demolab.com/?user=Gultekinn&theme=radical&hide_border=true)
 </div>
 
 ---
