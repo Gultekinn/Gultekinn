@@ -98,7 +98,7 @@ Detail-oriented Junior QA Engineer with frontend background, focused on finding 
 
 <div align="center">
 
-💖 *"Quality is never an accident; it is always the result of intelligent effort."*
+ *"Quality is never an accident; it is always the result of intelligent effort."*
 
 🌸 · 🐛 · ✅ · 🌸
 
